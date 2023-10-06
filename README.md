@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## I'm currently learning
+
+[![My Skills](https://skillicons.dev/icons?i=git,linux,js,html,css,tailwind,vite,electron,nodejs)](https://skillicons.dev)
+
+## I'm currently interest
+
+[![My Skills](https://skillicons.dev/icons?i=ts,babel,discord,docker,figma,firebase,nginx)](https://skillicons.dev)
 <!--
 **energyzunda/energyzunda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
