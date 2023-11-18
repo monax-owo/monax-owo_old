@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm learning programming at [svelte](https://svelte.dev) and [sveltekit](https://kit.svelte.dev).
+I'm learning programming at [svelte](https://svelte.dev) ([kit](https://kit.svelte.dev)) and [UnoCSS](https://unocss.dev).
 
 ### I'm currently learning 📝
 
